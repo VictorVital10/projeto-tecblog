@@ -40,7 +40,7 @@ body {
 	margin: 0 auto;
 }
 
-#area-lateral, #area-postagens {
+#area-lateral-direita, #area-postagens {
 	background: white;
 
 }
@@ -64,7 +64,7 @@ margin-top: 15px;
 margin-bottom:15px;
 }
 
-#area-lateral {
+#area-lateral-direita {
 
 	width: 240px;
 	float: right;
@@ -72,10 +72,26 @@ margin-bottom:15px;
 
 }
 
-.conteudo-lateral {
+#area-lateral-esquerda {
+
+	width: 240px;
+	float: left;
+
+	padding: 15px 5px;
+
+}
+
+.conteudo-lateral-direita {
 	background: white;
 	margin-bottom: 20px;
 	padding: 10px;
+}
+
+.conteudo-lateral-esquerda {
+	background: white;
+	margin-bottom: 20px;
+	padding: 10px;
+	
 }
 
 #rodape {
@@ -83,6 +99,7 @@ margin-bottom:15px;
 	text-align: center;
 	padding: 15px;
 	background: #CCC;
+	margin-top: 20px;
 }
 
 h1 {
