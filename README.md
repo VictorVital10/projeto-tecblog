@@ -1,4 +1,13 @@
 
-# TecBlog - Empresa Fictícia
+# TecBlog - Blog de tecnologia.
 
-### Projeto criado para praticar conhecimentos em HTML5 e CSS3 em conjunto com o curso de desenvolvimento web na Udemy. 
+ Projeto criado para uma empresa fictícia para praticar conhecimentos em HTML e CSS em conjunto com o curso de desenvolvimento web na Udemy. 
+
+ ### Tecnologias usadas no projeto:
+
+ - HTML5
+ - CSS3
+
+ 
+
+ 
